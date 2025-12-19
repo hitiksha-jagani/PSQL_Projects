@@ -1,4 +1,4 @@
-### Expense Tracker###
+### Expense Tracker ###
 
 ## Overview ##
 
@@ -22,26 +22,26 @@ Through this project, I revised and practiced:
 
 🔹 SQL Concepts
 
-CREATE TABLE
-INSERT, UPDATE, DELETE
-SELECT queries
-Sorting + filtering
-Date-based queries
+# CREATE TABLE
+# INSERT, UPDATE, DELETE
+# SELECT queries
+# Sorting + filtering
+# Date-based queries
 
 🔹 Java + JDBC
 
-Establishing database connection
-Executing SQL from Java code
-Handling results using ResultSet
-Managing CRUD operations
-Linking application logic with database logic
+# Establishing database connection
+# Executing SQL from Java code
+# Handling results using ResultSet
+# Managing CRUD operations
+# Linking application logic with database logic
 
 ## Tech Stack ##
 
-Java
-PostgreSQL
-JDBC
-psql CLI tool
+# Java
+# PostgreSQL
+# JDBC
+# psql CLI tool
 
 ## Screenshots ##
 
