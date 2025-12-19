@@ -237,7 +237,7 @@ public class DBOperations {
     }
 
     public static void deleteExpenseByDate(Date date) {
-        String qry = "DELETE FROM expenses WHERE date = '" + date + "';1";
+        String qry = "DELETE FROM expenses WHERE date = '" + date + "';";
 
         try {
             Connection conn = DBConnection.getConnection();
